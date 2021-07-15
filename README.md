@@ -1,3 +1,5 @@
 # Stock-Dashboard
 
-Basic dashboard by usibg web app to display stock data.
+Basic dashboard by using web app to display stock data.
+Libary:
+Jupyter-Dash
